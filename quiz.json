@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of soccer with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What is a soccer field called?",
+      "answers": ["Pitch", "Court", "Ring"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "How many players per team?",
+      "answers": ["11", "9", "7"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who is Messi?",
+      "answers": ["Player", "Coach", "Ref"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a goal worth?",
+      "answers": ["1", "2", "3"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is FIFA?",
+      "answers": ["Org", "Rule", "Game"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who won 2018 World Cup?",
+      "answers": ["France", "Brazil", "Germany"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is offside?",
+      "answers": ["Rule", "Foul", "Shot"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Ronaldo?",
+      "answers": ["Player", "Coach", "Ref"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a hat-trick?",
+      "answers": ["3 goals", "3 fouls", "3 saves"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a yellow card?",
+      "answers": ["Warning", "Goal", "Foul"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Pele?",
+      "answers": ["Player", "Coach", "Ref"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a red card?",
+      "answers": ["Ejection", "Goal", "Foul"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a corner kick?",
+      "answers": ["Set piece", "Foul", "Pass"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a penalty kick?",
+      "answers": ["Shot", "Pass", "Tackle"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who won Euro 2020?",
+      "answers": ["Italy", "Spain", "France"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is VAR?",
+      "answers": ["Review", "Foul", "Goal"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a clean sheet?",
+      "answers": ["No goals", "3 goals", "Foul"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Maradona?",
+      "answers": ["Player", "Coach", "Ref"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the World Cup?",
+      "answers": ["Tourney", "League", "Cup"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is stoppage time?",
+      "answers": ["Extra", "Goal", "Foul"],
       "correctAnswerIndex": 0
     }
   ]
